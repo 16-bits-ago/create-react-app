@@ -1,0 +1,11 @@
+.btn {
+    border: 10px solid purple;
+}
+
+.primary {
+    background-color: blue;
+}
+
+.error {
+    background-color: red;
+}
